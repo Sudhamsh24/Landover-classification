@@ -42,6 +42,8 @@ Change Detection – Compare two images and highlight differences
 
 Visualization – RGB composites, Change Maps, Change Matrix, Graphs
 
+---
+
 📊 Outputs
 
 Land Cover Percentages for each category
@@ -51,6 +53,8 @@ Change Matrix showing differences between years
 Change Map (White = Change, Black = No Change)
 
 Scatter Plot comparing land cover percentages
+
+---
 
 ## 🛠️ Installation
 Install the required libraries before running:
