@@ -22,9 +22,35 @@ It applies vegetation, water, and built-up indices to classify land cover and pe
 - Generate:  
   - **Change Map** (visual representation of changed areas)  
   - **Change Matrix** (numerical analysis of land cover shifts)  
-  - **Scatter Plot** (comparison of category-wise percentages)  
+  - **Scatter Plot** (comparison of category-wise percentages)
+    
 
 ---
+
+
+📂 Workflow
+
+Upload Images – Upload two multispectral satellite images
+
+Preprocessing – Normalize and prepare bands for analysis
+
+Index Calculation – NDVI, NDWI, NDBI
+
+Classification – Assign land cover categories
+
+Change Detection – Compare two images and highlight differences
+
+Visualization – RGB composites, Change Maps, Change Matrix, Graphs
+
+📊 Outputs
+
+Land Cover Percentages for each category
+
+Change Matrix showing differences between years
+
+Change Map (White = Change, Black = No Change)
+
+Scatter Plot comparing land cover percentages
 
 ## 🛠️ Installation
 Install the required libraries before running:
