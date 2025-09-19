@@ -30,17 +30,17 @@ It applies vegetation, water, and built-up indices to classify land cover and pe
 
 📂 Workflow
 
-Upload Images – Upload two multispectral satellite images
+**Upload Images** – Upload two multispectral satellite images
 
-Preprocessing – Normalize and prepare bands for analysis
+**Preprocessing** – Normalize and prepare bands for analysis
 
-Index Calculation – NDVI, NDWI, NDBI
+**Index Calculation** – NDVI, NDWI, NDBI
 
-Classification – Assign land cover categories
+**Classification** – Assign land cover categories
 
-Change Detection – Compare two images and highlight differences
+**Change Detection** – Compare two images and highlight differences
 
-Visualization – RGB composites, Change Maps, Change Matrix, Graphs
+**Visualization** – RGB composites, Change Maps, Change Matrix, Graphs
 
 ---
 
